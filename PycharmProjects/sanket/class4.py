@@ -1,0 +1,6 @@
+jayanti = input ("enter a jayanti: ")
+name = input("enter a name: ")
+place = input("enter a place: ")
+print ("today is " + jayanti)
+print ("the big emprorer of maharastra " + name)
+print("he was born in " + place)
